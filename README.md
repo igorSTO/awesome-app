@@ -6,7 +6,7 @@ Small Cypress framework to check Login page
 
 The details and spec for this project are [here](login.spec.js).
 
-## Make sure indtall Node.js on your computer
+## Make sure install Node.js on your computer
 
 ## How to run
 
