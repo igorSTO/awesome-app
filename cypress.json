@@ -1,0 +1,6 @@
+{
+    "baseUrl": "https://the-internet.herokuapp.com/",
+    "viewportHeight": 1080,
+    "viewportWidth": 1920,
+    "video": false
+}

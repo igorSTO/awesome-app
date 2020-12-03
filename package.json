@@ -1,0 +1,16 @@
+{
+  "name": "automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^6.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node_modules/.bin/cypress run",
+    "headed": "npm run test -- --headed"
+  },
+  "author": "IgorStotskyy",
+  "license": "ISC"
+}

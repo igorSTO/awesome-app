@@ -1,0 +1,8 @@
+{
+  "loginPage": "Login Page",
+  "invalidUsernameMessage": "Your username is invalid!",
+  "invalidPasswordMessage": "Your password is invalid!",
+  "successMessage": "You logged into a secure area!",
+  "secureTitle": "Secure Area",
+  "secureSubTitle": "Welcome to the Secure Area. When you are done click logout below."
+}
